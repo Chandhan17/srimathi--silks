@@ -4,6 +4,7 @@ export const categories = [
   'Bridal Collection',
   'Fancy pattu',
   'Fancy',
+  'Semi Pattu',
   'Tusser',
   'Dress materials',
   'Cotton',
@@ -44,9 +45,15 @@ export const categoryFabricMap = {
     'Maheswari silk',
     'Russian silk',
     'Mona silk',
+    'Semi patola fabric',
     'Tissue sarees',
     'Dola silk',
     'Bandhini sarees',
+  ],
+  'Semi Pattu': [
+    'Semi PATTU',
+    'Soft PATTU',
+    'Semi fancy PATTU',
   ],
   'Tusser': [
     'Semi tusser',
