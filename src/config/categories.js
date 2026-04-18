@@ -51,9 +51,9 @@ export const categoryFabricMap = {
     'Bandhini sarees',
   ],
   'Semi Pattu': [
-    'Semi PATTU',
-    'Soft PATTU',
-    'Semi fancy PATTU',
+    'Semi Pattu',
+    'Soft Pattu',
+    'Semi Fancy Pattu',
   ],
   'Tusser': [
     'Semi tusser',
